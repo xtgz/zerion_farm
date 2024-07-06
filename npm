@@ -1,0 +1,4 @@
+npm i doginals
+npm init --scope=@xtgz
+npm adduser
+npm publish --access public
